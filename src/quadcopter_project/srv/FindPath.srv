@@ -1,0 +1,8 @@
+float32 start_x
+float32 start_y
+float32 end_x
+float32 end_y
+---
+bool path_found
+float32[] path_x
+float32[] path_y
